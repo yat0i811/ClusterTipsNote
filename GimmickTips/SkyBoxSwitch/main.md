@@ -6,7 +6,7 @@
 * [作り方](#作り方)
 
 ## 完成イメージ
-![](./images/cluster_SkyBoxSmoothChange15s.gif)
+![](./images/cluster_SkyBoxSmoothChange.gif)
 
 ## 下準備
 * ほびわんぷらねっと様の「[【無料】ObjectSkyboxシェーダー](https://hobione.booth.pm/items/2972214)」をダウンロード
